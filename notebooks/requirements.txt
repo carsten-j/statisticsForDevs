@@ -2,3 +2,4 @@ jupyterlab
 matplotlib
 numpy
 pandas
+prometheus_pandas
