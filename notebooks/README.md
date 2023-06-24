@@ -1,4 +1,6 @@
 
+![foo](https://newrelic.com/sites/default/files/wp_blog_inline_files/right-skewed-long-tail-distribution.png)
+
 Fordeling af svar tider fra websites
 
 Motivation kunne fx være
